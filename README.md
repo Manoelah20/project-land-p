@@ -20,7 +20,6 @@ Este projeto é uma landing page para o Harri Bot, um bot de moderação para co
 - `style.css`: Arquivo de estilos para a página.
 - `logo.png`: Logo da Comunidade Harrison.
 - `Harri_bot.jpg`: Imagem do Harri Bot.
-- `BALLERINI.jpg`: Imagem do rodapé.
 
 ## Como Usar
 
@@ -48,4 +47,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-Para mais informações, entre em contato com [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Para mais informações, entre em contato com email: harrisonmanoela@gmail.com
+
